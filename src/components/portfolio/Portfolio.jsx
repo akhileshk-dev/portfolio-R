@@ -11,7 +11,7 @@ const Portfolio = () => {
         <div className='portfolio__item-image'>
         <img src="https://c4.wallpaperflare.com/wallpaper/626/292/964/anime-anime-girls-original-characters-computer-wallpaper-preview.jpg" alt="project" />
         </div>
-        <h3>This is a portfolio item title</h3>
+        <h3>mern stack Food Delivery Application</h3>
         <div className="portfolio__item-cta">
         <a href="https://github.com/akhileshk-dev/food-del-frontend" className='btn1'>Github</a>
         <a href="https://food-del-frontend-d7dl.onrender.com" className='btn btn-primary'>Live Demo</a>
